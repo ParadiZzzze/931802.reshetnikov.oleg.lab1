@@ -1,0 +1,82 @@
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\bin\Debug\net5.0\appsettings.json
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\bin\Debug\net5.0\Lab1.Views.dll
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\bin\Debug\net5.0\Lab1.Views.pdb
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.csprojAssemblyReference.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.xml
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.input.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.output.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.RazorCoreGenerate.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\Index.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cs
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.Views.pdb
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+C:\Users\zhoom\OneDrive\Рабочий стол\931804.Zhumagulov.VD.lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.CopyComplete
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\bin\Debug\net5.0\appsettings.json
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\bin\Debug\net5.0\Lab1.Views.dll
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\bin\Debug\net5.0\Lab1.Views.pdb
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.csprojAssemblyReference.cache
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.xml
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.input.cache
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.output.cache
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.RazorCoreGenerate.cache
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\Index.cshtml.g.cs
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cs
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.Views.pdb
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+C:\Users\nikita\Desktop\Web2\2.1\lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.CopyComplete

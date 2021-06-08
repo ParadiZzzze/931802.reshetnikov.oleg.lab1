@@ -1,0 +1,32 @@
+﻿@using Lab1.Services
+@inject IServiceInjection Service
+@{
+    ViewBag.Title = "AccessServiceDirectly - Backend1";
+    var model = Service.Calculate();
+}
+<h1>AccessServiceDirectly</h1>
+
+<b>Rand value first:</b> @(model.X)
+<br />
+<b>Rand value second:</b> @(model.Y)
+<br />
+
+<b>Add:</b>
+<br />
+@(model.Sum)
+<br />
+
+<b>Dif:</b>
+<br />
+@(model.Dif)
+<br />
+
+<b>Mult:</b>
+<br />
+@(model.Mult)
+<br />
+
+<b>Div:</b>
+<br />
+@(model.Div)
+<br />

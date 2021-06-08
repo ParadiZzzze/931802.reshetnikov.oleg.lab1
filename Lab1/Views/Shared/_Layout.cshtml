@@ -1,0 +1,20 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/main.css" asp-append-version="true"/>
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+<header>
+    <h2>Backend1</h2>
+    <nav><a asp-controller="CalcService" asp-action="Index">Home</a></nav>
+</header>
+<main>
+    @RenderBody()
+</main>
+<footer>
+    <hr/>
+    © 2021 - Backend1
+</footer>
+</body>
+</html>
